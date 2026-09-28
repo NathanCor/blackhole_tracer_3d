@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="blackhole_dithered.gif" alt="Dithered black hole with an orbiting camera" width="100%">
+  <img src="blackhole.gif" alt="Dithered black hole with an orbiting camera" width="100%">
 </p>
 
 # blackhole_tracer_3d
